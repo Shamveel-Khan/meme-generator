@@ -3,7 +3,7 @@
 Meme Generator is a web app that allows users to create their own memes by adding custom text to popular meme images! 🎭✨ Built with React and powered by a meme API, it provides a fun and interactive experience.
 
 ## 📷 Screenshot
-![Meme Generator Preview](/screenshot.png)
+![Meme Generator Preview](./public/screenshot.png)
 
 ## 🚀 Live Demo
 [Coming Soon!](#) *()*
